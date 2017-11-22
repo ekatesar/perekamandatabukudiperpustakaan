@@ -1,0 +1,5 @@
+lab\phb\perpuswebapp\controller\WebController.class
+lab\phb\perpuswebapp\controller\AppController.class
+lab\phb\perpuswebapp\repo\PerpusRepo.class
+lab\phb\perpuswebapp\entity\Perpus.class
+lab\phb\perpuswebapp\PerpusWebappApplication.class
